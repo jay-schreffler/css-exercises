@@ -1,0 +1,18 @@
+p:nth-child(odd) {
+    background-color: #990055;
+}
+
+#id-1 {
+    color: #115599;
+    font-size: 36px;
+}
+
+.number-2 {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: #169911;
+    font-size: 24px;
+    font-weight: bold;
+}
